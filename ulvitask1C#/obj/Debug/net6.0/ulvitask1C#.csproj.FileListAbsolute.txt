@@ -1,0 +1,15 @@
+C:\Users\ulvee\source\repos\ulvitask1C#\bin\Debug\net6.0\ulvitask1C#.exe
+C:\Users\ulvee\source\repos\ulvitask1C#\bin\Debug\net6.0\ulvitask1C#.deps.json
+C:\Users\ulvee\source\repos\ulvitask1C#\bin\Debug\net6.0\ulvitask1C#.runtimeconfig.json
+C:\Users\ulvee\source\repos\ulvitask1C#\bin\Debug\net6.0\ulvitask1C#.dll
+C:\Users\ulvee\source\repos\ulvitask1C#\bin\Debug\net6.0\ulvitask1C#.pdb
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ulvitask1C#.csproj.AssemblyReference.cache
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ulvitask1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ulvitask1C#.AssemblyInfoInputs.cache
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ulvitask1C#.AssemblyInfo.cs
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ulvitask1C#.csproj.CoreCompileInputs.cache
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ulvitask1C#.dll
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\refint\ulvitask1C#.dll
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ulvitask1C#.pdb
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ulvitask1C#.genruntimeconfig.cache
+C:\Users\ulvee\source\repos\ulvitask1C#\obj\Debug\net6.0\ref\ulvitask1C#.dll
